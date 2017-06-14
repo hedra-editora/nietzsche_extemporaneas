@@ -1,6 +1,17 @@
+TITULO = "NIETZSCHE_EXTEMPORANEA"
+GIT = `git log -1 --date=short --format=format:'%h'`
+
 all:
 	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > gitrevisioninfo.sty
-	latexmk -xelatex -interaction=nonstopmode LIVRO.tex
+	latexmk -xelatex LIVRO.tex
+rename:
+	cp LIVRO.pdf $(TITULO)_MIOLO_$(GIT).pdf
+clean_arquivosgerais:
+	mv ~/Dropbox/ARQUIVOS_GERAIS/$(TITULO)_MIOLO_* ~/Dropbox/ARQUIVOS_GERAIS/OLD/
+delivery:
+	cp $(TITULO)_MIOLO_$(GIT).pdf ~/Dropbox/ARQUIVOS_GERAIS/
+	echo $(GIT) '--- Entregue em' "$$(date)" >> ENTREGAS.txt
+
 erros:
 	-grep --color=auto "LaTeX Error" LIVRO.log
 	-grep --color=auto -A 3 "Undefined" LIVRO.log
