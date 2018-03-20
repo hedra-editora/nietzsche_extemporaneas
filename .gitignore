@@ -1,5 +1,6 @@
 *~
 *.docx
+*.xdv
 *.swp
 *.log
 *.aux
