@@ -20,11 +20,13 @@
 *.lg 
 *.ncx 
 *.xref 
-*.tmp 
+*.tmp
+*.xdv 
 *.idv 
 *.opf
 gitrevisioninfo.sty
 img/
+old/
 originais/
 original/
 capa/
