@@ -7,10 +7,10 @@
 - [X] Padronização: Itálicos
 - [X] Padronização: Travessão e meia risca
 - [X] Padronização: Versaletes
-- [ ] Padronização: Epígrafes
+- [X] Padronização: Epígrafes
 - [ ] Padronização: Versos
 - [ ] Padronização: Citações
-- [ ] Padronização: Espaço fino
+- [X] Padronização: Espaço fino
 - [X] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
 - [X] Padronização: Reticências
 
