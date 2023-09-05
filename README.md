@@ -1,11 +1,11 @@
 # Primeira diagramação
 - [ ] Estruturação de níveis (Ex: Chapter)
-- [ ] Tamanho e tipo da fonte
-- [ ] Formato do livro
-- [ ] Limpeza de arquivo (Ex: Sujeiras de conversão; negritos; etc)
-- [ ] Padronização: Aspas
-- [ ] Padronização: Itálicos
-- [ ] Padronização: Travessão e meia risca
+- [X] Tamanho e tipo da fonte
+- [X] Formato do livro
+- [X] Limpeza de arquivo (Ex: Sujeiras de conversão; negritos; etc)
+- [X] Padronização: Aspas
+- [X] Padronização: Itálicos
+- [X] Padronização: Travessão e meia risca
 - [ ] Padronização: Versaletes
 - [ ] Padronização: Epígrafes
 - [ ] Padronização: Versos
