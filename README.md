@@ -12,7 +12,7 @@
 - [ ] Padronização: Citações
 - [ ] Padronização: Espaço fino
 - [X] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
-- [ ] Padronização: Reticências
+- [X] Padronização: Reticências
 
 # Fechamento
 - [ ] Título
