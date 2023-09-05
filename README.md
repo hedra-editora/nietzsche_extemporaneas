@@ -6,7 +6,7 @@
 - [X] Padronização: Aspas
 - [X] Padronização: Itálicos
 - [X] Padronização: Travessão e meia risca
-- [ ] Padronização: Versaletes
+- [X] Padronização: Versaletes
 - [ ] Padronização: Epígrafes
 - [ ] Padronização: Versos
 - [ ] Padronização: Citações
