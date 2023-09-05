@@ -11,8 +11,7 @@
 - [ ] Padronização: Versos
 - [ ] Padronização: Citações
 - [ ] Padronização: Espaço fino
-- [ ] Padronização: Espaço fino entre ldots e parênteses
-- [ ] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
+- [X] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
 - [ ] Padronização: Reticências
 
 # Fechamento
