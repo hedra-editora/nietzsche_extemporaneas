@@ -22,5 +22,5 @@
 - [ ] ISBN
 - [ ] Ficha catalográfica
 - [ ] Nomes do corpo editorial Reedições: Menção ao editorial antigo
-- [ ] Nomes dos colaboradores
+- [X] Nomes dos colaboradores
 - [X] Publicidade atualizada
