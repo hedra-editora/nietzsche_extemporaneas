@@ -18,7 +18,7 @@
 - [X] Título
 - [X] Autor
 - [X] Título original
-- [ ] Número da edição
+- [X] Número da edição
 - [ ] ISBN
 - [ ] Ficha catalográfica
 - [ ] Nomes do corpo editorial Reedições: Menção ao editorial antigo
